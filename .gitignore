@@ -1,0 +1,15 @@
+# Ignore Research papers folder as requested
+Research papers/
+
+# Ignore large datasets and zips
+Dataset/
+Dataset.zip
+
+# Python/Jupyter Notebook checkpoints and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.venv/
+venv/
+ENV/
