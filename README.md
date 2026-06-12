@@ -2,6 +2,19 @@
 
 This repository contains the implementation of a Convolutional Neural Network (CNN) designed to classify and detect diseases in tomato and potato leaves. This project is part of the final assignment for the Artificial Intelligence course.
 
+## Project Description
+This project aims to detect and classify various conditions and diseases in tomato leaves using deep learning. The model classifies leaves into 10 distinct classes:
+1. **Bacterial Spot** (`Tomato___Bacterial_spot`)
+2. **Early Blight** (`Tomato___Early_blight`)
+3. **Late Blight** (`Tomato___Late_blight`)
+4. **Leaf Mold** (`Tomato___Leaf_Mold`)
+5. **Septoria Leaf Spot** (`Tomato___Septoria_leaf_spot`)
+6. **Spider Mites (Two-spotted spider mite)** (`Tomato___Spider_mites Two-spotted_spider_mite`)
+7. **Target Spot** (`Tomato___Target_Spot`)
+8. **Tomato Yellow Leaf Curl Virus** (`Tomato___Tomato_Yellow_Leaf_Curl_Virus`)
+9. **Tomato Mosaic Virus** (`Tomato___Tomato_mosaic_virus`)
+10. **Healthy** (`Tomato___healthy`)
+
 ## Project Structure
 
 ```text
